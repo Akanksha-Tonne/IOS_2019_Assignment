@@ -1,0 +1,7 @@
+Great Summary:
+All the points are covered:
+1.	Why kernels written within traditional data parallel programming model in not very effective over kernels written in warp-specialized manner.
+2.	What is Barrier Synchronization.
+3.	Brief of working of Warp-Specialized model with CUDA
+4.	Producer Consumer Synchronization
+Overall a very good attempt
