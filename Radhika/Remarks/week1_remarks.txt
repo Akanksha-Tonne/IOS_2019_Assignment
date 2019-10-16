@@ -1,0 +1,5 @@
+// A very good attempt to understand the key-words in the paper. But lacks the explanation of goal of the paper:
+Verification of code written for GPU, What is it and why is It needed?
+// The comparison of  traditional data parallel programming model and warp-specialized kernels seems to be missing.
+// Less presence of usage of own words makes it difficult to connect one section of summary to the other.
+// Please focus on research papers given in the references to gain deeper insight into understanding of problems.
