@@ -1,0 +1,4 @@
+Overall a good summary
+Explains the meaning of warp specialized kernels. The comparison of traditional data parallel programming model and
+warp-specialized kernels seems to be missing.
+More effort on explanation of Producer consumer named barriers would have given a better understanding.
